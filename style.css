@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    background-color: rgb(13, 255, 227);
+    background-color: blue;
 }
 .start-screen,
 .score-container{
@@ -33,7 +33,7 @@ button{
     margin-top: 0.9em;
 }
 #display-container{
-    background-color: rgb(246, 191, 232);
+    background-color: white;
     padding: 3.1em 1.8em;
     width: 80%;
     max-width: 37.5em;
