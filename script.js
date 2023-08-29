@@ -19,21 +19,21 @@ let countdown;
 const quizArray = [
   {
     id: "0",
-    question: "Who won the 2023 IPL?",
-    options: ["RCB", "CSK", "MI", "GT"],
-    correct: "CSK",
+    question: "Which is the biggest continent in the world?",
+    options: ["North America", "Asia", "Africa", "Europe"],
+    correct: "Asia",
   },
   {
     id: "1",
-    question: "Who won the 2021 IPL?",
-    options: ["RCB", "CSK", "MI", "KKR"],
-    correct: "CSK",
+    question: "Which is india's first Super Computer ?",
+    options: ["Param8000", "Param8", "Param800", "Param80"],
+    correct: "Param8000",
   },
   {
     id: "2",
-    question: "Who won the 2018 IPL?",
-    options: ["RCB", "CSK", "MI", "DC"],
-    correct: "CSK",
+    question: "Which is the fastest land animal in the world ?",
+    options: ["Cheetah", "Springbok", "Lion", "Tiger"],
+    correct: "Cheetah",
   },
 ];
 
